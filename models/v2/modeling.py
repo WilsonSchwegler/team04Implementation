@@ -108,8 +108,8 @@ action_categgorical_features = [
     "pitch_2_type",
     "pitch_2_bucket",
 ]
-action_#shared state features
-numeric_features = [
+#shared state features
+action_numeric_features = [
     "avg_velo",
     "avg_h_mov",
     "avg_v_mov",
