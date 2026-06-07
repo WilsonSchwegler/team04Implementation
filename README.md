@@ -30,6 +30,8 @@ Before running the project, download the following files and place them in the l
 - Place in: `data/`
 
 
+5. Node.js
+- If you do not have Node.js installed you can install in here: [Node.js](https://nodejs.org/en/download)
 
 ## 2. Conda Environment Setup
 
