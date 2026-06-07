@@ -1,4 +1,4 @@
-# Data-Driven MLB Pitch Planning System Team04 - Wilson Schwegler
+# Data-Driven MLB Pitch Planning System Team04 - Wilson Schwegler, Noah Betoshana
 
 This repository contains our final project for an interactive MLB pitch-planning system. Our application focuses on early count pitch sequencing. After a user selects a pitcher, batter, and first pitch, the system recommends a second pitch type and location and explains that recommendation through coordinated visual views.
 
