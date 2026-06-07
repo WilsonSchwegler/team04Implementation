@@ -25,6 +25,11 @@ Before running the project, download the following files and place them in the l
 - Place in: `models/v2/`
 - *Download should be a folder named `tables`*
 
+3. 2025 pitch level CSV
+- Download: [Google Drive folder]([https://drive.google.com/drive/folders/1QANUEmDCyW_E1SH7cPXnQUadzUVeDIr1?usp=drive_link](https://drive.google.com/file/d/1LcEBJRt0bU55yyEVygGQDJH7HfskYI9P/view?usp=sharing))
+- Place in: `data/`
+
+
 
 ## 2. Conda Environment Setup
 
