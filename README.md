@@ -1,4 +1,4 @@
-# Data-Driven MLB Pitch Planning System Team04 - Wilson Schwegler, Zhijie Zheng & Noah Betoshana
+# Data-Driven MLB Pitch Planning System Team04 (Wilson Schwegler, Zhijie Zheng & Noah Betoshana)
 
 This repository contains our final project for an interactive MLB pitch-planning system. Our application focuses on early count pitch sequencing. After a user selects a pitcher, batter, and first pitch, the system recommends a second pitch type and location and explains that recommendation through coordinated visual views.
 
@@ -25,7 +25,7 @@ Before running the project, download the following files and place them in the l
 - Place in: `models/v2/`
 - *Download should be a folder named `tables`*
 
-3. 2025 pitch level CSV
+4. 2025 pitch level CSV
 - Download: [Google Drive folder]([https://drive.google.com/drive/folders/1QANUEmDCyW_E1SH7cPXnQUadzUVeDIr1?usp=drive_link](https://drive.google.com/file/d/1LcEBJRt0bU55yyEVygGQDJH7HfskYI9P/view?usp=sharing))
 - Place in: `data/`
 
